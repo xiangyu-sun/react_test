@@ -1,0 +1,876 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"upda",
+				"updateAttributeFont"
+			],
+			[
+				"cus",
+				"customFonts"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"sys",
+				"systemFontWeight"
+			],
+			[
+				"font",
+				"fontSetting"
+			],
+			[
+				"a",
+				"attrib"
+			],
+			[
+				"project",
+				"projects"
+			],
+			[
+				"rende",
+				"renderDetailPage"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "source/utils.js",
+			"settings":
+			{
+				"buffer_size": 572,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/KanbanBoardContainer.js",
+			"settings":
+			{
+				"buffer_size": 9751,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/CardForm.js",
+			"settings":
+			{
+				"buffer_size": 1892,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/Card.js",
+			"settings":
+			{
+				"buffer_size": 3180,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/CheckList.js",
+			"settings":
+			{
+				"buffer_size": 1107,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/KanbanBoard.js",
+			"settings":
+			{
+				"buffer_size": 1299,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/App.js",
+			"settings":
+			{
+				"buffer_size": 612,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/NewCard.js",
+			"settings":
+			{
+				"buffer_size": 826,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/EditCard.js",
+			"settings":
+			{
+				"buffer_size": 788,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/List.js",
+			"settings":
+			{
+				"buffer_size": 1292,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/constants.js",
+			"settings":
+			{
+				"buffer_size": 34,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"last_filter": "ssba",
+		"selected_items":
+		[
+			[
+				"ssba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"ssbab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"ssrub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ssruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ssru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ssj",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"ppr",
+				"Package Control: Remove Package"
+			],
+			[
+				"ppi",
+				"Package Control: Install Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"pc",
+				"Package Control: Remove Package"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ss",
+				"Set Syntax: Jade"
+			],
+			[
+				"Pacpi",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/alexandersun/ReactTest/Style.css",
+		"/Users/alexandersun/ReactTest/package.json",
+		"/Users/alexandersun/ReactTest/CardForm.js",
+		"/Users/alexandersun/ReactTest/NewCard.js",
+		"/Users/alexandersun/ReactTest/EditCard.js",
+		"/Users/alexandersun/ReactTest/source/Card.js",
+		"/Users/alexandersun/ReactTest/webpack.config.js",
+		"/Users/alexandersun/uan-android/fastlane/Fastfile",
+		"/Users/alexandersun/uan-ios/fastlane/Fastfile",
+		"/Users/alexandersun/ReactTest/source/App.js",
+		"/Users/alexandersun/ReactTest/index.html",
+		"/Users/alexandersun/ReactTest/source/CheckList.js",
+		"/Users/alexandersun/ReactTest/source/KanbanBoard.js",
+		"/Users/alexandersun/ReactTest/source/List.js",
+		"/Users/alexandersun/ReactTest/source/Card/Card.js",
+		"/Users/alexandersun/ReactTest/source/List/List.js",
+		"/Users/alexandersun/ReactTest/source/CheckList/CheckList.js",
+		"/Users/alexandersun/ReactTest/source/KanbanBoard/KanbanBoard.js",
+		"/Users/alexandersun/Blizzard/Battle.net/Cache/d2/ac/d2ac4131c98acf1eb0ec802eda0420b22938cb468daabe0d3f2a4ac4e4f0d721.pfty",
+		"/Users/alexandersun/ReactTest/.babelrc",
+		"/Users/alexandersun/blg/package.json",
+		"/Users/alexandersun/package.json",
+		"/Users/alexandersun/Desktop/MyRecipes/Podfile",
+		"/Users/alexandersun/Desktop/grep.py",
+		"/Users/alexandersun/Desktop/validate_asset.sh",
+		"/Users/alexandersun/uan-ios/uan/Images.xcassets/Contents.json",
+		"/Users/alexandersun/xliff-ios/update_font.py",
+		"/Users/alexandersun/uan-ios/uan/Images.xcassets/A-alert.imageset/Contents.json",
+		"/Users/alexandersun/uan-ios/Networks.storyboard",
+		"/Users/alexandersun/xliff-ios/Networks.storyboard",
+		"/Users/alexandersun/xliff-ios/Menu.storyboard",
+		"/Users/alexandersun/Desktop/update_font.py",
+		"/Users/alexandersun/xliff-ios/replace_font.py",
+		"/Users/alexandersun/JDcoupons/data\\items.json",
+		"/Users/alexandersun/JDcoupons/data\\goods.json",
+		"/Users/alexandersun/Documents/JDcoupons-master/data\\items.json",
+		"/Users/alexandersun/xliff-ios/Network.storyboard",
+		"/Users/alexandersun/Documents/JDcoupons-master/data\\goods.json",
+		"/Users/alexandersun/Documents/JDcoupons-master/scrapy.cfg",
+		"/Users/alexandersun/xliff-ios/Main.storyboard",
+		"/Users/alexandersun/xliff-ios/localizable_from_xliff.py",
+		"/Users/alexandersun/uan-ios/uan/Base.lproj/Main.storyboard",
+		"/Users/alexandersun/uan-ios/uan/Storyboards/Settings.storyboard",
+		"/Users/alexandersun/uan-ios/fastlane/Matchfile",
+		"/Users/alexandersun/keystone/keystone.js",
+		"/Users/alexandersun/Downloads/UAN-Safe (Dev)_2016-10-21-160256_Mobiles-iPhone.ips",
+		"/Users/alexandersun/Desktop/Test/Podfile",
+		"/Users/alexandersun/Desktop/xliff/parse.py",
+		"/Users/alexandersun/Desktop/xliff/localizable.string",
+		"/Users/alexandersun/Desktop/csvfilter/open.py",
+		"/Users/alexandersun/Desktop/csvfilter/parse.py",
+		"/Users/alexandersun/Desktop/react-15.3.0/src/helloworld.js",
+		"/Users/alexandersun/Desktop/react-15.3.0/helloworld.html",
+		"/Users/alexandersun/Desktop/SmartCloset/Podfile",
+		"/Users/alexandersun/Library/Developer/CoreSimulator/Devices/AB8EF6F5-1EC6-473A-B5DD-8B841215BD1D/data/Containers/Data/Application/EEFEF43D-E0F6-49A5-80F1-932FBC993ED6/Library/Caches/com.IntervalIntl.STK/ef9e0a1d0c8607826c1eaee692194fd7.tmp",
+		"/Users/alexandersun/Library/Developer/CoreSimulator/Devices/AB8EF6F5-1EC6-473A-B5DD-8B841215BD1D/data/Containers/Data/Application/EAD0C6AA-0ECD-49CD-ADB2-34BDAA21E478/tmp/CFNetworkDownload_d3PMQP.tmp",
+		"/Users/alexandersun/relax/config.js",
+		"/Users/alexandersun/ArtistsAround/node_modules/admin-lte-express/app.js",
+		"/Users/alexandersun/ArtistsAround/app.js",
+		"/Users/alexandersun/ArtistsAround/app_client/index.html",
+		"/Users/alexandersun/ArtistsAround/app_api/models/db.js",
+		"/Users/alexandersun/ArtistsAround/node_modules/admin-lte-express/db.js",
+		"/Users/alexandersun/ArtistsAround/app_api/routes/index.js",
+		"/Users/alexandersun/ArtistsAround/app_api/models/users.js",
+		"/Users/alexandersun/ArtistsAround/app_api/models/locations.js",
+		"/Users/alexandersun/Desktop/ArtistAround/app.js",
+		"/Users/alexandersun/ArtistsAround/app_client/about/about.controller.js",
+		"/Users/alexandersun/ArtistsAround/app_client/app.js",
+		"/Users/alexandersun/ArtistsAround/app_api/config/passport.js",
+		"/Users/alexandersun/Desktop/eLearning/backend/requirements/devl.pip",
+		"/Users/alexandersun/Desktop/eLearning/backend/requirements/common.pip",
+		"/Users/alexandersun/Desktop/eLearningClient/react-dom-15.0.2.js",
+		"/Users/alexandersun/Desktop/eLearningClient/hello-react.html",
+		"/Users/alexandersun/Desktop/eLearningClient/react-15.0.2.js",
+		"/Users/alexandersun/UriphiumSite/app_api/controllers/locations.js",
+		"/Users/alexandersun/UriphiumSite/app.js",
+		"/Users/alexandersun/UriphiumSite/app_client/common/directives/navigation/navigation.controller.js",
+		"/Users/alexandersun/UriphiumSite/app_client/common/directives/navigation/navigation.template.html",
+		"/Users/alexandersun/UriphiumSite/app_api/models/locations.js",
+		"/Users/alexandersun/Downloads/react-15.0.2/examples/basic-jsx/index.html",
+		"/Users/alexandersun/UriphiumSite/app_server/controllers/locations.js",
+		"/Users/alexandersun/UriphiumSite/app_api/models/studio.js",
+		"/Users/alexandersun/UriphiumSite/app_client/about/about.controller.js",
+		"/Users/alexandersun/UriphiumSite/app_api/models/users.js",
+		"/Users/alexandersun/Desktop/STK/STK3.6/SalesHD/Podfile",
+		"/Users/alexandersun/Desktop/angular-resource.min.js",
+		"/Users/alexandersun/Desktop/angular-animate.min.js",
+		"/Users/alexandersun/UriphiumSite/app_client/common/services/authentication.service.js",
+		"/Users/alexandersun/UriphiumSite/app_client/locationDetail/locationDetail.view.html",
+		"/Users/alexandersun/UriphiumSite/app_client/locationDetail/locationDetail.controller.js",
+		"/Users/alexandersun/UriphiumSite/app_client/reviewModal/reviewModal.view.html",
+		"/Users/alexandersun/UriphiumSite/app_client/reviewModal/reviewModal.controller.js",
+		"/Users/alexandersun/Node/11/app_client/reviewModal/reviewModal.view.html",
+		"/Users/alexandersun/Node/11/app_client/locationDetail/locationDetail.controller.js",
+		"/Users/alexandersun/UriphiumSite/app_client/common/services/loc8rData.service.js",
+		"/Users/alexandersun/UriphiumSite/app_client/common/directives/navigation/navigation.directive.js",
+		"/Users/alexandersun/Node/11/app_client/common/directives/navigation/navigation.directive.js",
+		"/Users/alexandersun/Node/11/app_client/common/directives/navigation/navigation.controller.js",
+		"/Users/alexandersun/Node/11/app_client/common/directives/navigation/navigation.template.html",
+		"/Users/alexandersun/UriphiumSite/app_client/app.js",
+		"/Users/alexandersun/UriphiumSite/app_client/auth/login/login.controller.js",
+		"/Users/alexandersun/UriphiumSite/app_client/auth/login/login.view.html",
+		"/Users/alexandersun/UriphiumSite/app_api/routes/index.js",
+		"/Users/alexandersun/UriphiumSite/app_api/controllers/reviews.js",
+		"/Users/alexandersun/UriphiumSite/app_client/auth/register/register.controller.js",
+		"/Users/alexandersun/UriphiumSite/app_client/auth/register/register.view.html",
+		"/Users/alexandersun/UriphiumSite/app_client/auth",
+		"/Users/alexandersun/Node/11/app_client/common/services/authentication.service.js",
+		"/Users/alexandersun/UriphiumSite/app_api/models/db.js",
+		"/Users/alexandersun/UriphiumSite/app_api/config/passport.js",
+		"/Users/alexandersun/UriphiumSite/app_api/controllers/authentication.js",
+		"/Users/alexandersun/UriphiumSite/.env",
+		"/Users/alexandersun/UriphiumSite/app_client/reviewModal/test.modal.html",
+		"/Users/alexandersun/UriphiumSite/app_client/reviewModal/reviewModal .view.html",
+		"/Users/alexandersun/Node/11/app_client/locationDetail/locationDetail.view.html",
+		"/Users/alexandersun/UriphiumSite/app_server/views/layout.jade",
+		"/Users/alexandersun/UriphiumSite/app_client/index.html",
+		"/Users/alexandersun/UriphiumSite/app_client/lib/ui-bootstrap-custom-1.2.5.min.js",
+		"/Users/alexandersun/UriphiumSite/app_client/lib/ui-bootstrap-tpls-1.2.5.min.js",
+		"/Users/alexandersun/UriphiumSite/app_client/home/home.view.html",
+		"/Users/alexandersun/UriphiumSite/app_client/common/directives/footerGeneric/footerGeneric.directive.js",
+		"/Users/alexandersun/UriphiumSite/app_client/locationDetail/locationDetail.view.html.html",
+		"/Users/alexandersun/UriphiumSite/app_client/locationDetail/locationDetail.controller.js.js",
+		"/Users/alexandersun/UriphiumSite/app_client/locationDetail/loca- tionDetail.view.html",
+		"/Users/alexandersun/UriphiumSite/app_client/common/views/genericText.view.html",
+		"/Users/alexandersun/UriphiumSite/app_client/common/filters/addHtmlLineBreaks .filter.js",
+		"/Users/alexandersun/UriphiumSite/app_client/lib/angular-sanitize.min.js",
+		"/Users/alexandersun/UriphiumSite/app_client/common/directives/pageHeader/pageHeader.directive.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"status",
+			"draftCard",
+			"persistCardMove",
+			"pers",
+			"history",
+			"export_upload_localization_to_transifex",
+			"export_localization",
+			"export",
+			"export_localization",
+			"export",
+			"document",
+			"commit_version_bump",
+			"error",
+			"systemFontWeight",
+			"NSfont",
+			"NSFont",
+			":",
+			"nodes",
+			"nsfont",
+			"customFonts",
+			"NSFo",
+			"w4O-bf-LbQ",
+			"NSFo",
+			"\t",
+			":",
+			"fontDescription",
+			"@",
+			":",
+			"attributeFonts",
+			":",
+			"<font",
+			"font",
+			"replacingTarget",
+			"helve",
+			"hel",
+			"find",
+			"Helvetica",
+			"mongo_ur",
+			"Autoloader",
+			"client",
+			"mongoose",
+			"user",
+			"popup",
+			"users",
+			"db",
+			"qb",
+			"expre",
+			"addre",
+			"modal",
+			"nodal",
+			"addr",
+			"routes",
+			"require('./routes')(app);",
+			"theEarth",
+			"loc8rApp",
+			"/location/:locationid/review/new",
+			"action",
+			"/loc",
+			"location-info",
+			"goo",
+			"font"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "source/utils.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 572,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								572,
+								572
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "source/KanbanBoardContainer.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9751,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9477,
+								9477
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "source/CardForm.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1892,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								534,
+								534
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "source/Card.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1786,
+								1786
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 739.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "source/CheckList.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1107,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								246,
+								246
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "source/KanbanBoard.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								217
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "source/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 612,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								453,
+								462
+							],
+							[
+								468,
+								468
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "source/NewCard.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 826,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								469,
+								469
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "source/EditCard.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 788,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								436,
+								436
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "source/List.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1292,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1013,
+								1013
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "source/constants.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								34
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "react_test.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/UriphiumSite/app_server/controllers/locations.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
